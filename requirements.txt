@@ -1,0 +1,7 @@
+networkx
+pandas
+matplotlib
+numpy
+jupyter
+notebook
+nbformat
